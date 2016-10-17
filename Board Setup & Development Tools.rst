@@ -3,7 +3,7 @@ Board Setup
 
 The items needed on hand to power and make use of the Raspberry PI are:
 
-* Micro USB with a DC output of 5V 2A used to power the Raspberry PI.
+* A micro USB with a DC output of 5V 2A used to power the Raspberry PI.
 * A micro SD card with a minimum of 8GB. 
 * A computer monitor or TV with an HDMI in port. 
 * USB keyboard and mouse either corded or wireless.
